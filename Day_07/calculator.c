@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define capacite 20
-
+// hhhhh ma3leksh a si ilyas, by Ali
 /*waaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa3 */
 
 typedef struct {
